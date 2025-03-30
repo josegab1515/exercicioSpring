@@ -10,7 +10,7 @@
         <h1 style="color: blue;">Inserir Gênero</h1>
         <form action="/generos/insert" method="post">
             <label>Gênero do filme</label>
-            <input type="text" name="generoF">
+            <input type="text" name="nome">
             <button type="submit" style="color: yellow;">Salvar</button>
         </form>
     </body>
